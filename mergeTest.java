@@ -31,7 +31,7 @@ public class mergeTest {
         for(String j : arr2){
             System.out.print(j + " ");
         }
-        System.out.println();
+        System.out.println("Changed added from laptop");
 
     }
 }
